@@ -1,4 +1,4 @@
 function clickMe(){
-    alert("You clicked me!");
-    
+    window.alert("You clicked me!");
+
 }
