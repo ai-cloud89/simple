@@ -7,10 +7,10 @@ p{
     color :#333333;
 }
 button{
-    background-color: #2e8eae;
+    background-color: #d9992a;
     color: white;
     padding: 8px 16px;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
 }
