@@ -3,3 +3,14 @@
     text-align: center;
     font-size: 48px;
 }
+p{
+    color :#333333;
+}
+button{
+    background-color: #2e8eae;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
